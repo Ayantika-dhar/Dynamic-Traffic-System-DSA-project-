@@ -60,5 +60,5 @@ To intersection 5 : 11 minutes
 - Support **Graphical Visualization** of the traffic network.
 
 ## Author
-- Developed by: **[Your Name]**
+- Developed by: **Ayantika Dhar**
 
